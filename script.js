@@ -1,1 +1,5 @@
-console.log("Salom Git");
+function greeting() {
+  return `Hello world!`;
+}
+
+console.log(greeting());
